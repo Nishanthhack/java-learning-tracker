@@ -1,2 +1,2 @@
 # java-learning-tracker
-, Tracking my daily Java learning progress
+ Tracking my daily Java learning progress
